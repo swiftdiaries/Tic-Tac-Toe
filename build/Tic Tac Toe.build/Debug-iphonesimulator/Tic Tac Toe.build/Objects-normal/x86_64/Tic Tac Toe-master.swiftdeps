@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "cd1554d1cc3505de7afed66fbcc54be1"
+inputs: 
+- "/Users/Adhita/Documents/iOS_Apps/Tic Tac Toe/Tic Tac Toe/ViewController.swift"
+- "/Users/Adhita/Documents/iOS_Apps/Tic Tac Toe/Tic Tac Toe/AppDelegate.swift"
